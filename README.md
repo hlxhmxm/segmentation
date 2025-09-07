@@ -1,4 +1,4 @@
-Intelligent Systems for Autonomous Mining Operations: Real-Time Robust Road Segmentation
+# Intelligent Systems for Autonomous Mining Operations: Real-Time Robust Road Segmentation
 
 This repository implements the intelligent framework for robust road segmentation in autonomous mining vehicle systems, as described in the paper: Intelligent Systems for Autonomous Mining Operations: Real-Time Robust Road Segmentation 
 
