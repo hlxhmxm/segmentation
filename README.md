@@ -193,6 +193,5 @@ Based on MMSegmentation.
 Dataset derived from AutoMine with custom annotations.
 
 
-
 For questions, contact claudio.urrea@usach.cl.
 
